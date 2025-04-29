@@ -52,6 +52,7 @@ services:
              done &&
              echo 'Elasticsearch is up!' &&
              npm run seed &&
+              npm run seed --products &&
              npm start"
 
 networks:
