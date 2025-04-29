@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Elasticsearch",
+    "content": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases.",
+    "language": "en"
+  },
+  {
+    "id": 2,
+    "title": "Fuzzy search capabilities",
+    "content": "Elasticsearch provides powerful fuzzy search capabilities that can handle spelling mistakes and typos in search queries.",
+    "language": "en"
+  },
+  {
+    "id": 3,
+    "title": "Einführung in Elasticsearch",
+    "content": "Elasticsearch ist eine verteilte, RESTful Such- und Analysemaschine, die für eine wachsende Anzahl von Anwendungsfällen geeignet ist.",
+    "language": "de"
+  },
+  {
+    "id": 4,
+    "title": "Introduction à Elasticsearch",
+    "content": "Elasticsearch est un moteur de recherche et d'analyse RESTful distribué capable de répondre à un nombre croissant de cas d'utilisation.",
+    "language": "fr"
+  },
+  {
+    "id": 5,
+    "title": "Introducción a Elasticsearch",
+    "content": "Elasticsearch es un motor de búsqueda y análisis RESTful distribuido capaz de abordar un número creciente de casos de uso.",
+    "language": "es"
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Integration",
+    "content": "Elasticsearch can be integrated with machine learning algorithms for more powerful search and analytics capabilities.",
+    "language": "en"
+  },
+  {
+    "id": 7,
+    "title": "Natural Language Processing",
+    "content": "With plugins and analyzers, Elasticsearch can perform advanced natural language processing tasks efficiently.",
+    "language": "en"
+  },
+  {
+    "id": 8,
+    "title": "Elaborazione del linguaggio naturale",
+    "content": "Con plugin e analizzatori, Elasticsearch può eseguire in modo efficiente attività avanzate di elaborazione del linguaggio naturale.",
+    "language": "it"
+  },
+  {
+    "id": 9,
+    "title": "Capacités de recherche multilingue",
+    "content": "Elasticsearch offre des capacités de recherche multilingue qui peuvent gérer différentes langues et scripts.",
+    "language": "fr"
+  },
+  {
+    "id": 10,
+    "title": "Real-time Data Analysis",
+    "content": "Elasticsearch provides real-time data analysis and visualization through its integration with Kibana.",
+    "language": "en"
+  }
+]
